@@ -29,3 +29,21 @@ Despite the Fourth Hokage's dying wish that Naruto be viewed as a hero for servi
 <sub>
 Naruto eventually came to accept that he would live and die alone, and his external response was to perform harmless pranks on the village. Coy, raffish and full of life, Naruto soon came to display a somewhat unexpected determination to succeed and be accepted by others. Upon being assigned to "Team Seven" as a Genin-ranked ninja, his true potential soon became outwardly apparent.
 </sub>
+
+<p>
+
+<sup>
+Vowing to become Hokage one day and using his will to never give in, Naruto saves the village from invading forces and earns his acceptance. Eventually, Naruto learns to harness the power of the Demon Fox sealed inside him to perform acts of strength far beyond what any other human is capable of.
+</sup>
+
+<p>
+
+<sub>
+In all, Naruto is an admirable character whose sheer determination to succeed despite the odds, earns him respect and devotion from his fellow villagers.
+</sub>
+
+
+<div align="center">
+ Writer <a href="https://github.com/ikx7a"> @ikx7a </a>
+
+
