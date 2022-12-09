@@ -1,7 +1,7 @@
 [![Naruto]()]()
 
 **Character Info**
-
+<b>
 <sup>
 Age: 12-13 (Naruto part I), 15-17 (part II), 19 (The Last: Naruto the Movie), 27 (Naruto epilogue), 32 (Boruto: Naruto the Movie)
 Birthday: October 10
