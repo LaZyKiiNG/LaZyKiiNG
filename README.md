@@ -45,8 +45,3 @@ Vowing to become Hokage one day and using his will to never give in, Naruto save
 In all, Naruto is an admirable character whose sheer determination to succeed despite the odds, earns him respect and devotion from his fellow villagers.
 </sub>
 
-
-<div align="center">
- Writer <a href="https://github.com/ikx7a"> @ikx7a </a>
-
-
